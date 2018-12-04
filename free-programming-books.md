@@ -39,6 +39,7 @@
 * [Elixir](#elixir)
   * [Ecto](#ecto)
   * [Phoenix](#phoenix)
+* [Elm](#elm)  
 * [Emacs](#emacs)
 * [Embedded Systems](#embedded-systems)
 * [Erlang](#erlang)
@@ -132,6 +133,7 @@
 * [Lisp](#lisp)
 * [Livecode](#livecode)
 * [Lua](#lua)
+* [Make](#make)
 * [Markdown](#markdown)
 * [Mathematica](#mathematica)
 * [MATLAB](#matlab)
@@ -357,6 +359,12 @@
 * [Practical and Theoretical Aspects of Compiler Construction](http://web.stanford.edu/class/archive/cs/cs143/cs143.1128/) (class lectures and slides)
 
 
+####Computer Science
+
+* [Computer Science I - Draft](https://bitbucket.org/chrisbourke/computersciencei/src) - Dr. Chris Bourke (PDF) (:construction: *in process*)
+* [Computer Science II - Draft](http://cse.unl.edu/~cbourke/ComputerScienceTwo.pdf) - Dr. Chris Bourke (PDF) (:construction: *in process*)
+
+
 #### Computer Vision
 
 * [Computer Vision](http://homepages.inf.ed.ac.uk/rbf/BOOKS/BANDB/bandb.htm) - Dana Ballard, Chris Brown
@@ -483,6 +491,7 @@
 * [2016 European Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-european-software-development-salary-survey.csp) (email address *requested*, not required)
 * [2016 Software Development Salary Survey](http://www.oreilly.com/programming/free/2016-software-development-salary-survey-report.csp) (email address *requested*, not required)
 * [97 Things Every Programmer Should Know - Extended](https://leanpub.com/97-Things-Every-Programmer-Should-Know-Extended) *(Leanpub account or valid email requested)*
+* [A MACHINE MADE THIS BOOK ten sketches of computer science](http://ocaml-book.com/s/popbook.pdf) - JOHN WHITINGTON (PDF)
 * [A Mathematical Theory of Communication](https://archive.org/details/bstj27-4-623) - Claude E.Shannon
 * [Ansible Up & Running (first three chapters)](https://www.ansible.com/ebooks) *(account required)*
 * [Asterisk™: The Definitive Guide](http://solmu.org/pub/help/Asterisk/3nd_Edition_for_Asterisk_1.8)
@@ -571,6 +580,7 @@
 * [Bits, Signals, and Packets: An Introduction to Digital Communications and Networks](http://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-02-introduction-to-eecs-ii-digital-communication-systems-fall-2012/readings/)
 * [Code Connected vol.1](http://hintjens.wdfiles.com/local--files/main%3Afiles/cc1pe.pdf) (PDF) (book on ZeroMQ)
 * [Computer Networking : Principles, Protocols and Practice](http://cnp3book.info.ucl.ac.be/1st/html/index.html) (HTML, ePub, PDF, Kindle)
+* [Computer Networks: A Systems Approach](https://book.systemsapproach.org) - Larry Peterson and Bruce Davie (HTML, epub, mobi, PDF) 
 * [High-Performance Browser Networking](https://hpbn.co) - Ilya Grigorik
 * [HTTP Succinctly, Syncfusion](https://www.syncfusion.com/resources/techportal/ebooks/http) (PDF, Kindle) (email address *requested*, not required)
 * [HTTP2 Explained](http://daniel.haxx.se/http2/) - Daniel Stenberg
@@ -707,9 +717,9 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Kanban and Scrum - making the most of both](http://www.infoq.com/minibooks/kanban-scrum-minibook)
 * [Kanban for skeptics](https://leanpub.com/kanbanforskeptics) - Nick Oostvogels  *(Leanpub account or valid email requested)*
 * [Microservice Databases: Migrating from Relational Monolith to Distributed Data](http://www.oreilly.com/programming/free/migrating-to-microservice-databases.csp) (email address *requested*, not required)
-* [Microservices AntiPatterns and Pitfalls](http://www.oreilly.com/programming/free/microservices-antipatterns-and-pitfalls.csp) (email address *requested*, not required)
+* [Microservices AntiPatterns and Pitfalls](https://www.oreilly.com/programming/free/files/microservices-antipatterns-and-pitfalls.pdf) (PDF)
 * [Microservices in Production](http://www.oreilly.com/programming/free/microservices-in-production.csp) (email address *requested*, not required)
-* [Microservices vs. Service-Oriented Architecture](http://www.oreilly.com/programming/free/microservices-vs-service-oriented-architecture.csp) (email address *requested*, not required)
+* [Microservices vs. Service-Oriented Architecture](https://www.oreilly.com/programming/free/files/microservices-vs-service-oriented-architecture.pdf) (PDF)
 * [Migrating to Cloud-Native Application Architectures](http://www.oreilly.com/programming/free/migrating-cloud-native-application-architectures.csp) (email address *requested*, not required)
 * [Naked objects](http://downloads.nakedobjects.net/resources/Pawson%20thesis.pdf) - Richard Pawson (PDF)
 * [OAuth - The Big Picture](https://pages.apigee.com/oauth-big-picture-ebook.html)
@@ -1212,6 +1222,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Git Workflows](http://documentup.com/skwp/git-workflows-book)
 * [GitHub Cheat Sheet](https://github.com/tiimgreen/github-cheat-sheet) - Tim Green (Markdown)
 * [Intoduction to Git and Github](https://launchschool.com/books/git) - Launch School
+* [Intoduction to Git and Github - Tutorial](http://cse.unl.edu/~cbourke/gitTutorial.pdf) - Dr. Chris Bourke (PDF)
 * [Learn Enough Git to be Dangerous](https://www.learnenough.com/git-tutorial) - Michael Hartl
 * [Learn Git - Learn Version Control with Git](http://www.git-tower.com/learn/git/ebook/command-line/introduction) - Tobias Günther
 * [Pro Git](http://git-scm.com/book/en/v2) - Scott Chacon
@@ -1288,6 +1299,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Parallel and Concurrent Programming in Haskell](http://chimera.labs.oreilly.com/books/1230000000929/index.html) -  Simon Marlow
 * [Real World Haskell](http://book.realworldhaskell.org)
 * [Speeding Through Haskell](http://www.sthaskell.com)
+* [Wise Man's Haskell](https://anchpop.github.io/wise_mans_haskell/) - Andre Popovitch
 * [Yet Another Haskell Tutorial](http://hal3.name/docs/daume02yaht.pdf) (PDF)
 
 
@@ -1412,7 +1424,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Object-Oriented Programming in JavaTM Textbook](http://computing.southern.edu/halterman/OOPJ/) - Rick Halterman (PDF per Chapter)
 * [Object Oriented Programming using Java](https://bookboon.com/en/object-oriented-programming-using-java-ebook) - Simon Kendal (PDF) , Bookboon. (email address *requested*, not required)
 * [Object-Oriented vs. Functional Programming](http://www.oreilly.com/programming/free/object-oriented-vs-functional-programming.csp) - Richard Warburton (email address *requested*, not required)
-* [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky
+* [OOP - Learn Object Oriented Thinking & Programming](http://pub.bruckner.cz/titles/oop) - Rudolf Pecinovsky (PDF)
 * [Open Data Structures (in Java)](http://opendatastructures.org/ods-java.pdf) - Pat Morin (PDF)
 * [Processing XML with Java (A Guide to SAX, DOM, JDOM, JAXP, and TrAX) (2002)](http://www.cafeconleche.org/books/xmljava/) - Elliotte Rusty Harold
 * [The ABC of PDF with iText: PDF Syntax essentials](https://leanpub.com/itext_pdfabc) - Bruno Lowagie  *(Leanpub account or valid email requested)*
@@ -1485,7 +1497,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Learn to Code JavaScript by Playing a Game](http://codecombat.com)
 * [Learning JavaScript Design Patterns](http://addyosmani.com/resources/essentialjsdesignpatterns/book/) - Addy Osmani
 * [Managing Space and Time with JavaScript - Book 1: The Basics](http://www.noelrappin.com) - Noel Rappin
-* [Marionette Exposé: Learn to write modular Javascript applicatons using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea  *(Leanpub account or valid email requested)*
+* [Marionette Exposé: Learn to write modular Javascript applications using Backbone Marionette and RequireJS/AMD](https://leanpub.com/marionetteexpose) - Jack Killilea  *(Leanpub account or valid email requested)*
 * [Mastering JavaScript High Performance](https://www.packtpub.com/packt/free-ebook/javascript-high-performance) - Chad R. Adams, Packt. (email address *requested*, not required)
 * [Mozilla Developer Network's JavaScript Guide](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Guide)
 * [O'Reilly Programming JavaScript Applications](http://chimera.labs.oreilly.com/books/1234000000262/)
@@ -1558,9 +1570,13 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Elm
 
+* [An Introduction to Elm](https://guide.elm-lang.org) (HTML)
+* [Beginning Elm](https://elmprogramming.com) - Pawan Poudel  (HTML)
 * [Building a Live-Validating Signup Form in Elm](http://tech.noredink.com/post/129641182738/building-a-live-validated-signup-form-in-elm)
 * [Elm Accelerated](https://accelerated.amimetic.co.uk) - James Porter
+* [Elm Programming Language](https://en.wikibooks.org/wiki/Elm_programming_language) (HTML)
 * [Elm Tutorial](http://www.elm-tutorial.org)
+* [Learn You an Elm](https://learnyouanelm.github.io) (HTML)
 * [The Elm Architecture](https://github.com/evancz/elm-architecture-tutorial)
 
 
@@ -1751,6 +1767,11 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Lua 5.3 Reference Manual](http://www.lua.org/manual/5.3/)
 * [Lua Programming](https://en.wikibooks.org/wiki/Lua_Programming) - Wikibooks
 * [Programming in Lua (first edition)](https://www.lua.org/pil/contents.html)
+
+
+### Make
+
+* [Managing Projects with GNU Make](https://www.oreilly.com/openbook/make3/book/index.html) - Robert Mecklenburg
 
 
 ### Markdown
@@ -2035,6 +2056,7 @@ Kerridge (PDF) (email address *requested*, not required)
 * [Prolog Problems](https://sites.google.com/site/prologsite/prolog-problems) - Werner Hett
 * [Prolog Techniques](http://bookboon.com/en/prolog-techniques-applications-of-prolog-ebook) - Attila Csenki, Bookboon. (email address *requested*, not required)
 * [Prolog Tutorial](http://www.cpp.edu/~jrfisher/www/prolog_tutorial/contents.html)
+* [The Art of Prolog, Second Edition](https://mitpress.mit.edu/books/art-prolog-second-edition) -  Leon S. Sterling, Ehud Y. Shapiro (Open Access)
 * [The First 10 Prolog Programming Contests](https://dtai.cs.kuleuven.be/ppcbook/) - Bart Demoen, Phuong-Lan Nguyen, Tom Schrijvers, Remko Tronçon
 * [Warren's Abstract Machine: A Tutorial Reconstruction](http://wambook.sourceforge.net) - Hassan A¨it-Kaci
 
@@ -2147,7 +2169,6 @@ Kerridge (PDF) (email address *requested*, not required)
 
 #### Django
 
-* [Django 2.0 Tutorial for Beginners](https://djangoforbeginners.com) (2.0)
 * [Django Girls Tutorial](https://tutorial.djangogirls.org/en/) (1.11)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.5.x/django.pdf) (PDF) (1.5)
 * [Django Official Documentation](https://media.readthedocs.org/pdf/django/1.7.x/django.pdf) (PDF) (1.7)
